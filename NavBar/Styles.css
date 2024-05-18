@@ -1,0 +1,198 @@
+/*background*/
+.bgbody{font-family: sans-serif;
+
+background-position:center;background-attachment: fixed;
+
+background-size: 120%;
+
+background-repeat: no-repeat;background-color: #3e9bff;
+
+padding:0%; margin: 0%; color: aliceblue;   
+
+
+
+}
+
+
+.bg{background-color: #005bc274;
+    
+border-radius: 10px;padding: 1em;
+    
+border: 2px solid transparent;
+
+outline: none;resize: none;margin: 1%; 
+
+size-adjust: none;resize: none;}
+
+/*contactus*/
+
+
+.inputbg{background-color:#0099ff;
+    
+}/*contactUS*/
+
+.inputbg:hover{background-color: rgb(6, 160, 165);
+    
+color: rgb(0, 145, 255);}
+
+.inputmarg{margin: 2%;padding: 1% 5%;}/*contactUS*/
+
+.locmarg{margin: 2%;}/*contactUS*//*aboutus*/
+
+.labelmarg{margin: 1%;}/*contactUS*/
+
+.selectbg{background-color: rgba(0, 166, 255, 0.3);
+    
+  padding:10% 10%;font-size: 90%;
+    
+border-style:hidden ;}/*contactUS*/
+
+.selectbg:hover{background-color: rgba(188, 252, 255, 0.5);
+    
+color: rgb(0, 128, 255);}
+
+.textareabg{background-color:#318eff;
+    border-radius: 10px; 
+}
+
+.textareabg:hover{background-color:#0064de;
+    
+color:rgb(0, 145, 255);}/*contactUS*/
+
+.textareamarg{margin: 1%; size-adjust: none;
+    
+resize: none;}/*contactUS*/
+
+
+.subcolor{background-color: hsla(115, 100%, 50%, 0.533);
+    
+color:rgb(255, 255, 255);}/*contactUS*//*reviews*/
+
+.subcolor:hover{background-color: hsl(0, 0%, 100%);
+    
+color:rgb(52, 255, 1);}
+
+
+.submarg{padding-top: 1%;padding-bottom: 1% ;
+    
+padding-right: 1.5%;padding-left: 1.5%; margin: 1%;margin-left: 35%;}/*contactUS*//*reviews*/
+
+.textarea{border-radius: 15px;
+    
+padding: 1em; border: 2px solid transparent;color:whitesmoke;
+
+outline: none;
+    
+resize: none;}/*contactUS*//*Resources*/ /*aboutus*//*reviews*/
+
+
+/*Resources*/
+
+.restable{border-style: hidden;
+        
+background-color: rgba(255, 0, 0, 0.500);
+
+margin:1% ;}/*Resources*/
+
+.restd{border-style:hidden;
+        
+padding: 10%;
+
+text-decoration: none;}/*Resources*/
+
+.headcolor{font-size:170%;
+  
+  color:rgb(0, 0, 0);}/*Resources*/
+
+.ares{text-decoration: none;
+  
+  color:whitesmoke;}/*Resources*/
+
+
+/*aboutus*/
+
+.h2color{color:rgb(0, 0, 0)}/*aboutus*/
+
+.pmarg{margin: 2%;}/*aboutus*/
+
+.pcolor{color:rgb(255, 255, 255)}/*aboutus*/
+
+
+/*reviews*/
+
+.commentboximg{ border-radius: 50%;
+  
+  height: 40px;
+
+   width: 40px;}
+   /*reviews*/
+
+.commentbox{border-style: hidden;
+ 
+border-radius: 0px 0px 15px 15px;
+
+background-color: rgb(0, 128, 255);
+
+color: rgb(255, 255, 255);  display: flex; 
+
+flex-direction: column; resize: none;}/*reviews*/
+
+.checked { color: rgb(249, 208, 5);
+
+}
+.notchecked{color: rgb(33, 33, 33)}
+ /*reviews*/
+
+
+.marg{text-align: center;margin-bottom:2% ;
+  
+  margin-left:85% ;
+
+} /*reviews*/ 
+
+
+
+.comment{padding-left: 5%; } /*reviews*/
+
+.Res{border-style: solid;
+  
+  background-color: rgba(0, 0, 0, 0);
+
+}/*reviews*/
+
+.marg{text-align: center;
+  
+  margin-bottom:2% ;
+  
+  margin-left:85% ;}/*reviews*/
+
+.head{ background-color: #0001A7; 
+
+border-radius: 15px 15px 0px 0px;
+
+}/*reviews*/
+
+.name{padding-top:20px; 
+  
+  padding-right:50%; 
+
+}/*reviews*/
+
+
+/*Home*/
+
+.homeimg{
+  border-radius: 40px;
+
+}
+
+.error {
+  color: red;
+}
+
+
+
+
+/*----------------*/
+
+/*---------------*/
